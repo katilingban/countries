@@ -1,0 +1,53 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# countries
+
+<!-- badges: start -->
+
+[![Project Status:
+WIP](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+[![Lifecycle:
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+<!-- badges: end -->
+
+A tool for generating lists of country names based on various
+definitions and organising them into different administrative,
+socio-economic, and/or political groupings.
+
+## Installation
+
+`countries` is still in active development and is not yet available on
+[CRAN](https://cran.r-project.org/).
+
+You can install the development version of `countries` from
+[GitHub](https://github.com/katilingban/countries) with:
+
+``` r
+if(!require(remotes)) install.packages("remotes")
+remotes::install_github("katilingban/countries")
+```
+
+## What does `countries` do?
+
+## Citation
+
+If you find the `countries` package useful, please cite using the
+suggested citation provided by a call to the `citation` function as
+follows:
+
+``` r
+citation("countries")
+```
+
+## Community guidelines
+
+Feedback, bug reports, and feature requests are welcome; file issues or
+seek support [here](https://github.com/katilingban/countries/issues). If
+you would like to contribute to the package, please see our
+[contributing
+guidelines](https://katilingban.io/countries/CONTRIBUTING.html).
+
+This project is released with a [Contributor Code of
+Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html).
+By contributing to this project, you agree to abide by its terms.
