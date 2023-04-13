@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# countries
+# countries: Generate and Organise Various Lists of Countries
 
 <!-- badges: start -->
 
